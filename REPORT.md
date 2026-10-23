@@ -2,7 +2,7 @@
 
 **Name:** Soumyanil Ain
 **Student ID:** 801488534
-**Email:** soumyanilain@gmail.com
+**Email:** sain@charlotte.edu
 
 ---
 
