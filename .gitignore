@@ -1,0 +1,6 @@
+# generated input data (regenerate with: python datagen.py 801488534)
+shared-folder/input/*.csv
+
+# Spark output markers and checksums; only the part-*.csv results are committed
+_SUCCESS
+*.crc
